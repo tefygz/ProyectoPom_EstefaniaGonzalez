@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33455e83-c9d4-4bfb-ba98-f5b275fc3e33" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/AdminPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/CambioPassPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/EmergencyContactsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/MyInfoPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/PosteoBuzzPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilidades/ClaseBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilidades/DataDriven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilidades/PropertiesDriven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Setup.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/datos/DataExcel.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/drivers/chromedriver.exe" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2Q9ioMEY10GY0t9W3HYSFMEgrEz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Estefania.Gonzalez/Documents/CURSO Automation/Nueva carpeta/TrabajoPOM_Garbozo",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.completion"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Estefania.Gonzalez\Documents\CURSO Automation\TrabajoPOM_GonzalezEstefania\src\test\resources\drivers" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install" />
+      <command value="mvn compiler:testCompile" />
+      <command value="mvn compiler:compile" />
+      <command value="mvn clean" />
+      <command value="mvn compile" />
+      <command value="mvn test" />
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Estefania.Gonzalez/Documents/CURSO Automation/TrabajoPOM_GonzalezEstefania/src/test/java/testng.xml">
+    <configuration name="DataDriven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utilidades.DataDriven" />
+      <module name="TrabajoPOM_GonzalezEstefania" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utilidades.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Estefania.Gonzalez/Documents/CURSO Automation/TrabajoPOM_GonzalezEstefania/src/test/java/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TrabajoPOM_GonzalezEstefania" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TrabajoPOM_GonzalezEstefania" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.Tests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.CP007_editarContactoEmergencia" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TrabajoPOM_GonzalezEstefania" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.Tests" />
+      <option name="METHOD_NAME" value="CP007_editarContactoEmergencia" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Estefania.Gonzalez/Documents/CURSO Automation/TrabajoPOM_GonzalezEstefania/src/test/java/testng.xml" />
+        <item itemvalue="TestNG.Tests" />
+        <item itemvalue="TestNG.Tests.CP007_editarContactoEmergencia" />
+        <item itemvalue="Application.DataDriven" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33455e83-c9d4-4bfb-ba98-f5b275fc3e33" name="Changes" comment="" />
+      <created>1684772380448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684772380448</updated>
+    </task>
+    <servers />
+  </component>
+</project>
